@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm an Electronics Engineering student interested in networking,
+I'm an Electronics Engineering Graduate interested in networking,
 cloud computing, and cybersecurity.
 
 Currently learning and building hands-on experience with AWS,
