@@ -9,7 +9,7 @@
 
 I'm an Electronics Engineering graduate from the Polytechnic University of the Philippines with a strong interest in **cloud computing, networking, and cybersecurity**.
 
-I'm currently building my technical skills through hands-on labs, projects, and certifications involving **AWS, Linux, networking, cybersecurity, and IT infrastructure**.
+Currently building my technical skills through hands-on labs, certifications, and self-learning focused on **AWS, Linux, networking, cybersecurity, and IT infrastructure**.
 
 ## 🛠️ Skills & Technologies
 
@@ -40,12 +40,17 @@ I'm currently building my technical skills through hands-on labs, projects, and 
 
 ### 🔐 Cybersecurity
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
-![Firewall](https://img.shields.io/badge/Firewall_Fundamentals-DD0031?style=for-the-badge)
-![Network Monitoring](https://img.shields.io/badge/Network_Monitoring-6A1B9A?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-2596BE?style=for-the-badge&logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Wapiti](https://img.shields.io/badge/Wapiti-333333?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge)
+![BeEF](https://img.shields.io/badge/BeEF-232323?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge)
 
-### 💻 IT Support & Systems
+### 🖥️ Operating Systems & IT Support
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -57,74 +62,21 @@ I'm currently building my technical skills through hands-on labs, projects, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📜 Certifications
-
-- **AWS re/Start**
-- **ISC2 Certified in Cybersecurity (CC)**
-- **Cyber Threat Monitoring Level 1 — TESDA**
-- **Information Technology Fundamentals — IBM SkillsBuild**
-- **Introduction to the Threat Landscape 3.0 — Fortinet Training Institute**
-- **Cybersecurity Fundamentals — IBM SkillsBuild**
-- **Getting Started with Cybersecurity — IBM SkillsBuild**
-- **Network Defense — Cisco Networking Academy**
-- **Endpoint Security — Cisco Networking Academy**
-- **ITIL 4 Foundation — LinkedIn Learning**
-- **IT Service Management: ISO/IEC 20000-1 — LinkedIn Learning**
-- **Connect and Protect: Networks and Network Security — Google Career Certificates**
-- **Introduction to Cybersecurity — Cisco Networking Academy**
-
-## 🚀 Projects
-
-### 🌐 WAN and LAN Network System Design for a Company
-
-- Designed and simulated a comprehensive WAN and LAN network infrastructure.
-- Designed network connectivity for regional and branch offices.
-- Configured routers and switches to optimize interconnectivity and communication flow.
-
-### ☁️ AWS Cloud Labs
-
-Hands-on AWS learning focused on cloud infrastructure, networking, security, and core AWS services.
-
-### 🔐 Cybersecurity Labs
-
-Hands-on cybersecurity learning covering network security, endpoint security, monitoring, and defensive security concepts.
-
-### ⚡ Electronics Engineering Projects
-
-Projects involving electronics, embedded systems, hardware troubleshooting, and engineering applications.
-
-## 💼 Experience
-
-### IT Operations Intern — Concentrix CVG Philippines, Inc.
-
-- Assisted in managing and configuring basic network infrastructure.
-- Supported LAN and Wi-Fi connectivity.
-- Reimaged desktop and laptop computers.
-- Managed user accounts and access through Active Directory.
-- Supported Apple device management using Jamf.
-- Assisted with technical troubleshooting and documentation.
-
-### Customer Satisfaction Division Intern — Sharp (Phils.) Corporation
-
-- Conducted troubleshooting and repairs of TVs, electric fans, and household appliances.
-- Performed hardware troubleshooting and laptop repairs.
-- Assisted with power-related and board-level hardware issues.
-
 ## 📊 GitHub Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinKierLo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKierLo&layout=compact&theme=tokyonight)
 
-## 📈 GitHub Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=KevinKierLo&theme=tokyonight)
 
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-kier-lo-2b0616312/)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 🐙 [GitHub](https://github.com/KevinKierLo)
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my repositories and connect with me!
