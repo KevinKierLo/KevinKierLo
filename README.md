@@ -1,11 +1,12 @@
 <!-- ========================= -->
-<!--        TERMINAL HEADER     -->
+<!--      CYBERSECURITY HEADER -->
 <!-- ========================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=1000&height=180&lines=kevin%40kali%3A~%24+whoami;Kevin+Kier+Lo;kevin%40kali%3A~%24+cat+role.txt;Aspiring+Cloud+Engineer+%7C+Aspiring+Network+Engineer;kevin%40kali%3A~%24+cat+focus.txt;AWS+%7C+Linux+%7C+Networking+%7C+Cybersecurity;kevin%40kali%3A~%24+./keep_learning.sh"
-    alt="Linux Terminal Animation"
+    src="./assets/cyber-security-header.gif"
+    width="100%"
+    alt="Cybersecurity Technology Animation"
   />
 </p>
 
@@ -121,6 +122,7 @@ Hands-on projects and labs covering **Linux, Python, AWS services, networking, s
 </p>
 
 ---
+---
 
 ## 📫 Connect With Me
 
@@ -140,16 +142,15 @@ Hands-on projects and labs covering **Linux, Python, AWS services, networking, s
   </a>
 </p>
 
----
-
 <!-- ========================= -->
-<!--        TERMINAL FOOTER     -->
+<!--       CYBERSECURITY FOOTER -->
 <!-- ========================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=1000&height=160&lines=kevin%40kali%3A~%24+sudo+apt+update;kevin%40kali%3A~%24+sudo+apt+upgrade;kevin%40kali%3A~%24+ping+8.8.8.8;kevin%40kali%3A~%24+nmap+--version;kevin%40kali%3A~%24+aws+--version;kevin%40kali%3A~%24+git+status;kevin%40kali%3A~%24+keep+learning;kevin%40kali%3A~%24+exit"
-    alt="Linux Terminal Footer Animation"
+    src="./assets/cyber-security-footer.gif"
+    width="100%"
+    alt="Cybersecurity Technology Animation"
   />
 </p>
 
