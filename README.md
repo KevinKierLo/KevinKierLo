@@ -1,17 +1,28 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= -->
+<!--        TERMINAL HEADER     -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="./assets/linux-terminal.gif" width="100%" alt="Linux Cybersecurity Terminal">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=1000&height=180&lines=kevin%40kali%3A~%24+whoami;Kevin+Kier+Lo;kevin%40kali%3A~%24+cat+role.txt;Aspiring+Cloud+Engineer+%7C+Aspiring+Network+Engineer;kevin%40kali%3A~%24+cat+focus.txt;AWS+%7C+Linux+%7C+Networking+%7C+Cybersecurity;kevin%40kali%3A~%24+./keep_learning.sh"
+    alt="Linux Terminal Animation"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Kevin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Kevin+Kier+Lo;Aspiring+Cloud+Engineer;Aspiring+Network+Engineer;Cybersecurity+Enthusiast;AWS+%7C+Linux+%7C+Networking" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Cloud+Engineer;Aspiring+Network+Engineer;Cybersecurity+Enthusiast;AWS+%7C+Linux+%7C+Networking"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinKierLo&label=Profile%20Views&color=00b894&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=KevinKierLo&label=Profile%20Views&color=00b894&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -96,24 +107,17 @@ Hands-on projects and labs covering **Linux, Python, AWS services, networking, s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinKierLo&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=KevinKierLo&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KevinKierLo&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKierLo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinKierLo/KevinKierLo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://streak-stats.demolab.com?user=KevinKierLo&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -122,17 +126,31 @@ Hands-on projects and labs covering **Linux, Python, AWS services, networking, s
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-kier-lo-2b0616312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://github.com/KevinKierLo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 ---
 
+<!-- ========================= -->
+<!--        TERMINAL FOOTER     -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="./assets/footer-terminal.gif" width="100%" alt="Terminal animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=1000&height=160&lines=kevin%40kali%3A~%24+sudo+apt+update;kevin%40kali%3A~%24+sudo+apt+upgrade;kevin%40kali%3A~%24+ping+8.8.8.8;kevin%40kali%3A~%24+nmap+--version;kevin%40kali%3A~%24+aws+--version;kevin%40kali%3A~%24+git+status;kevin%40kali%3A~%24+keep+learning;kevin%40kali%3A~%24+exit"
+    alt="Linux Terminal Footer Animation"
+  />
 </p>
 
 <p align="center">
