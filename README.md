@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Kevin 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kevin%20Kier%20Lo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=gradient" width="100%"/>
+</p>
+
+<h1 align="center">Hi, I'm Kevin Kier Lo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Electronics+Engineering+Graduate;Aspiring+Cloud+Engineer;Aspiring+Network+Engineer;Cybersecurity+Enthusiast;AWS+%7C+Linux+%7C+Networking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Kevin+Kier+Lo;Aspiring+Cloud+Engineer;Aspiring+Network+Engineer;Cybersecurity+Enthusiast;AWS+%7C+Linux+%7C+Networking" />
 </p>
 
 <p align="center">
@@ -14,7 +18,7 @@
 
 I'm an Electronics Engineering graduate from the **Polytechnic University of the Philippines** with a strong interest in **cloud computing, networking, and cybersecurity**.
 
-Currently building my technical skills through hands-on labs, projects, certifications, and self-learning focused on **AWS, Linux, networking, cybersecurity, and IT infrastructure**.
+Currently building my technical skills through hands-on labs, projects, and self-learning focused on **AWS, Linux, networking, cybersecurity, and IT infrastructure**.
 
 ---
 
@@ -81,34 +85,17 @@ Built and deployed a static website using **Amazon S3**, working with static web
 
 Configured **EC2 instances and IAM access controls** using resource tags and JSON policies to separate development and production permissions.
 
-### 🌱 SpectraCao
-
-Developed a portable, non-invasive **NIR-based cacao disease detection system** as an Electronics Engineering capstone project.
-
-The system uses spectral data and machine learning to help detect **Black Pod Rot in cacao pods** before visible symptoms appear.
-
 ### 🐧 Linux & AWS Labs
 
-Hands-on labs covering **Linux, Python, AWS services, networking, security, and cloud infrastructure**.
-
----
-
-## 📚 Certifications & Learning
-
-* ☁️ AWS re/Start Program
-* 🌐 Cisco Networking Academy — Networking & Network Support
-* 🔐 Cisco Networking Academy — Introduction to Cybersecurity
-* 🔐 Google — Connect and Protect: Networks and Network Security
-* 🛡️ ITIL 4 Foundation Concepts
-* 🏢 ISO/IEC 20000-1 IT Service Management
+Hands-on projects and labs covering **Linux, Python, AWS services, networking, security, and cloud infrastructure**.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 **Outstanding Capstone** — SpectraCao
-* 🥉 **3rd Place** — Peek-a-Melon Watermelon Ripeness Detection
-* 🎓 Electronics Engineering — Polytechnic University of the Philippines
+* 🎓 Electronics Engineering Graduate — Polytechnic University of the Philippines
+* 🥇 Outstanding Capstone
+* 🥉 3rd Place — PUP ECE Exhibit
 
 ---
 
@@ -151,7 +138,7 @@ Hands-on labs covering **Linux, Python, AWS services, networking, security, and 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
